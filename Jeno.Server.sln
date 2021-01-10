@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeno.Server", "Jeno.Server\Jeno.Server.csproj", "{9BF09FE6-B4FA-42B0-A1A3-F2A90BB5ED54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF09FE6-B4FA-42B0-A1A3-F2A90BB5ED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF09FE6-B4FA-42B0-A1A3-F2A90BB5ED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF09FE6-B4FA-42B0-A1A3-F2A90BB5ED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF09FE6-B4FA-42B0-A1A3-F2A90BB5ED54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2429DA-A372-4DF4-A49A-EAE7EB075277}
+	EndGlobalSection
+EndGlobal
